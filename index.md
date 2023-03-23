@@ -14,3 +14,7 @@
 
 $git init
 
+- [] Wakeup at 5 AM
+- [] Get ready by 6 AM
+- [] Have breakfast at 7 AM
+- [] Go to SMC at 8 AM
